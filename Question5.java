@@ -4,7 +4,7 @@ public class Question5
 {
   public static void main(String[] args)
   {
-    /**
+    /*
      * Prompt the user for number. This input indicates the number of integers the user will be entering next. 
      * Print out the mode (highest occurrence) from the set of integers. 
      *    e.g.
@@ -27,6 +27,10 @@ public class Question5
      */
      
     Scanner in = new Scanner(System.in);
-    
+
+    System.out.print("Enter an Integer: ");
+    int num = in.nextInt();
+
+
   }
 }
