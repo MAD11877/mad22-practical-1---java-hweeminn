@@ -6,7 +6,7 @@ public class Question4
   {
     /*
      * Prints a right angle triangle with *. The base of the triangle depends on the integer given.
-     *    e.g.
+     *    e.g
      *     > 5
      *     *****
      *     ****
